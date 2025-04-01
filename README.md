@@ -2,7 +2,8 @@
 # FPGA-based Neural Network Acceleration Framework with RISC-V Architecture
 
 **Last Updated: 2025.04.01 | Long-term Maintenance Project**
-ps:I haven't started yet.
+
+*ps:I haven't started yet.*
 
 ## 🌟 Project Vision
 Explore innovative approaches for neural network computing through software-hardware co-design on self-developed RISC-V processor architecture. Key focuses:
